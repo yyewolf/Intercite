@@ -1,0 +1,18 @@
+package config
+// CONFIGURATION
+
+func DefineTokens() {
+	Tokens = []string{
+		"SOME TOKEN HERE",
+		"SOME TOKEN HERE",
+		"SOME TOKEN HERE",
+		"SOME TOKEN HERE",
+		"SOME TOKEN HERE",
+		"SOME TOKEN HERE",
+		"SOME TOKEN HERE",
+		"SOME TOKEN HERE",
+		"SOME TOKEN HERE",
+		"SOME TOKEN HERE",
+		"SOME TOKEN HERE",
+	}
+}
